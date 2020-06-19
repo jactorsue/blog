@@ -9,34 +9,6 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2018/07/dpkg-debian-package-manager.html</loc>
-    
-    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jactorsue.github.io/blog/2018/04/how-blog-on-githubpages-can-be-searched-by-google.html</loc>
-    
-    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jactorsue.github.io/blog/2018/10/nvm-node-version-manager.html</loc>
-    
-    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jactorsue.github.io/blog/2018/05/tmux-terminal-multiplexing.html</loc>
-    
-    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jactorsue.github.io/blog/2018/04/xinput-command-usage.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
@@ -51,7 +23,28 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2018/11/java-classpath-configuration.html</loc>
+    <loc>http://jactorsue.github.io/blog/2018/04/how-blog-on-githubpages-can-be-searched-by-google.html</loc>
+    
+    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jactorsue.github.io/blog/2018/05/tmux-terminal-multiplexing.html</loc>
+    
+    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jactorsue.github.io/blog/2018/10/nvm-node-version-manager.html</loc>
+    
+    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jactorsue.github.io/blog/2018/07/dpkg-debian-package-manager.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
@@ -65,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2018/11/linux-time-management.html</loc>
+    <loc>http://jactorsue.github.io/blog/2018/11/java-classpath-configuration.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
@@ -79,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2018/11/create-maven-project-with-multi-modules.html</loc>
+    <loc>http://jactorsue.github.io/blog/2018/11/linux-time-management.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
@@ -100,6 +93,13 @@
   </url>
   
   <url>
+    <loc>http://jactorsue.github.io/blog/2018/11/create-maven-project-with-multi-modules.html</loc>
+    
+    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jactorsue.github.io/blog/2019/02/linux-ssh-password-free.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
@@ -114,7 +114,7 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2019/04/vscode-vim-auto-switch-inputmethod-in-linux.html</loc>
+    <loc>http://jactorsue.github.io/blog/2019/05/centos-7-static-ip-config.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
@@ -128,14 +128,7 @@
   </url>
   
   <url>
-    <loc>http://jactorsue.github.io/blog/2019/05/centos-7-static-ip-config.html</loc>
-    
-    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jactorsue.github.io/blog/2019/12/git-undo-summary.html</loc>
+    <loc>http://jactorsue.github.io/blog/2019/04/vscode-vim-auto-switch-inputmethod-in-linux.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
@@ -150,6 +143,13 @@
   
   <url>
     <loc>http://jactorsue.github.io/blog/2019/05/kubeedge.html</loc>
+    
+    <lastmod>2020-02-28T10:58:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jactorsue.github.io/blog/2019/12/git-undo-summary.html</loc>
     
     <lastmod>2020-02-28T10:58:14.000Z</lastmod>
     
